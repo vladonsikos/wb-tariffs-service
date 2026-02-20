@@ -12,7 +12,7 @@
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/ВАШ_НИК/wb-tariffs-service.git
+git clone https://github.com/vladonsikos/wb-tariffs-service.git
 cd wb-tariffs-service
 ```
 
